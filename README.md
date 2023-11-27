@@ -1,2 +1,2 @@
 # Machine-Translation
-In this project, we use a LSTM model to translate Germany sentences to English ones. We also took some steps to preprocess the text dataset.
+This project focuses on developing a machine translation system to translate German sentences into English. Utilizing Long Short-Term Memory (LSTM) networks, a type of recurrent neural network, the model captures the intricacies and contextual nuances inherent in languages.
